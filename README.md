@@ -34,7 +34,7 @@ or read the links below. Basically, it's easy:
 If you **find a typo**, or a **mistake in the code** - or you **want to add an
 exercise of your own for other students to learn from** - you can suggest
 these improvements to the original repository.
-
+..
 
 Check out how to [create a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) and how to [create a pull request](https://help.github.com/articles/about-pull-requests/).
 
