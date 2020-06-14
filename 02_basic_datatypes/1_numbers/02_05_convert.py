@@ -10,3 +10,18 @@ Demonstrate how to:
     Take note of what information is lost when some conversions take place.
 
 '''
+x = 8
+y = 7.5
+
+#convert int to float
+x = float(x)
+
+#convert float to int
+y = int(y)
+
+#floor division with float and an int
+f = float(input("Enter a float number:"))
+i = int(input("Enter an interger"))
+f_d = f//i
+
+print(f_d)

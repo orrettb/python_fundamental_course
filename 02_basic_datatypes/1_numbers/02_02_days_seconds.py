@@ -11,3 +11,8 @@ NOTE: We will use the input() funtion to collect users input. An example is demo
 # The string passed to the input() function is what the user is prompted with
 days = int(input("Please enter a number in days between 1 and 1,000,000,000: "))
 
+#convert number input to seconds
+
+seconds_fr_days = days * 60 * 60 * 24
+
+print("There are "+str(seconds_fr_days)+" seconds in the nunmber of days you entered!")
